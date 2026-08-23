@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31346412/README.md)
+
 <p align="center">
 <img width="1050" height="auto" alt="M Top Devider" src="https://github.com/user-attachments/assets/ffe411ad-98e9-406c-8370-466b0b1b9645" />
 
@@ -6,7 +6,7 @@
 <img width="450" height="auto" alt="Marki Leker" src="https://github.com/user-attachments/assets/9d8bc64b-0cff-4143-877b-7c2b0b89f33c" />
 
 <p align="center">
-<img width="640" height="auto" alt="M Photo" src="https://github.com/user-attachments/assets/e3f12530-e948-4241-8073-09923e825b08" />
+<img width="640" height="auto" alt="Untitled584_20260822224646" src="https://github.com/user-attachments/assets/a31434bd-50b5-48ca-8e22-cd67f7436535" />
 
 <p align="center">
 <img width="160" height="auto" alt="M tiger" src="https://github.com/user-attachments/assets/3950fe81-55ed-437e-a06b-233598667a58" />     <img width="160" height="auto" alt="M Face" src="https://github.com/user-attachments/assets/a7e16952-0b89-4acb-b7ca-b4ed444259a2" />     <img width="160" height="auto" alt="M fire" src="https://github.com/user-attachments/assets/23ead1fe-79af-4647-beca-950795366641" />
