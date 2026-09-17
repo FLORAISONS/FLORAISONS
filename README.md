@@ -42,9 +42,6 @@ $${\color{#641d00}Read \space patron \space for \space more \space !}$$
 <p align="right">
 <img width="780" height="auto" alt="M Dusek" src="https://github.com/user-attachments/assets/65c41882-28d7-4dfb-bdef-fe98eebb458a" />
 
-$${\color{#a54800}Links \space to \space my \space strawpage \space and \space my \space art \space strawpage}$$
-
-[Strawpage](https://wizardry-heart.straw.page/)  -  [Art Strawpage](https://artpagewithcoolstuff.straw.page/)
 
 <p align="center">
 $${\color{#e0972a}Credit \space to \space Telamon \space / \space Ghoulz \space for \space making \space the \space Github}$$
