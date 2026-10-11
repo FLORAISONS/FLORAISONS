@@ -5,7 +5,7 @@
 
 <img width="850" height="auto" alt="image" src="https://github.com/user-attachments/assets/9266a0c5-12b9-47f8-8038-2f626f35c13d" />
 
-[ᛝ .˚ ata book](https://knowledge-spell.atabook.org/) 　‎ᯓ 𖦹　 [Strawpage ⊹ ࣪ ˖](https://wizardry-heart.straw.page/)
+ᛝ .˚ [ata book](https://knowledge-spell.atabook.org/) 　‎ᯓ 𖦹　 [Strawpage](https://wizardry-heart.straw.page/)  ⊹ ࣪ ˖
 
 
 ♯ .  ݁˖ my chuds ; [Narlen](https://github.com/nexxiro) , [Shrike](https://github.com/Steampunked-Ghoul)  , [Shin/Twixxel](https://github.com/Twixxel-Lessgo)
