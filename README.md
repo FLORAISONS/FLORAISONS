@@ -8,5 +8,5 @@
 [ᛝ .˚ ata book](https://knowledge-spell.atabook.org/) 　‎ᯓ 𖦹　 [Strawpage ⊹ ࣪ ˖](https://wizardry-heart.straw.page/)
 
 
-♯ .  ݁˖ my chuds ; [Narlen](https://github.com/nexxiro) , [Shrike](https://github.com/Steampunked-Ghoul)  , [Axder/Twixxel](https://github.com/Twixxel-Lessgo)
+♯ .  ݁˖ my chuds ; [Narlen](https://github.com/nexxiro) , [Shrike](https://github.com/Steampunked-Ghoul)  , [Shin/Twixxel](https://github.com/Twixxel-Lessgo)
 <p align="center"><img width="600" height="auto" alt="tumblr_a53cdf5f52f5e618d48f67647d9651a5_891b58ef_640" src="https://github.com/user-attachments/assets/aa27feea-10d3-4c5a-b30f-d51633b7b994" />
